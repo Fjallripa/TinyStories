@@ -1,0 +1,302 @@
+[
+    {
+        "id": 0,
+        "type": "yes_no",
+        "question": "Is diabetes a chronic disease?"
+    },
+    {
+        "id": 1,
+        "type": "yes_no",
+        "question": "Can regular exercise reduce the risk of heart disease?"
+    },
+    {
+        "id": 2,
+        "type": "yes_no",
+        "question": "Is asthma considered a respiratory condition?"
+    },
+    {
+        "id": 3,
+        "type": "yes_no",
+        "question": "Can smoking increase the risk of lung cancer?"
+    },
+    {
+        "id": 4,
+        "type": "yes_no",
+        "question": "Is obesity associated with higher risk of developing type 2 diabetes?"
+    },
+    {
+        "id": 5,
+        "type": "yes_no",
+        "question": "Can high blood pressure lead to stroke?"
+    },
+    {
+        "id": 6,
+        "type": "yes_no",
+        "question": "Is it possible to prevent some types of cancer with a healthy diet and regular exercise?"
+    },
+    {
+        "id": 7,
+        "type": "yes_no",
+        "question": "Can mental health disorders be treated with medication?"
+    },
+    {
+        "id": 8,
+        "type": "yes_no",
+        "question": "Is it necessary to take antibiotics for viral infections?"
+    },
+    {
+        "id": 9,
+        "type": "yes_no",
+        "question": "Can vaccines help prevent certain infectious diseases?"
+    },
+    {
+        "id": 10,
+        "type": "factual",
+        "question": "What is an early sign of diabetes?"
+    },
+    {
+        "id": 11,
+        "type": "factual",
+        "question": "Which exercise is most beneficial for heart health?"
+    },
+    {
+        "id": 12,
+        "type": "factual",
+        "question": "When should one seek medical help for asthma?"
+    },
+    {
+        "id": 13,
+        "type": "factual",
+        "question": "Who is at risk of developing lung cancer?"
+    },
+    {
+        "id": 14,
+        "type": "factual",
+        "question": "Where can one find resources for healthy diet plans?"
+    },
+    {
+        "id": 15,
+        "type": "factual",
+        "question": "What is the main effect of high blood pressure on the body?"
+    },
+    {
+        "id": 16,
+        "type": "factual",
+        "question": "Which type of cancer is the most common?"
+    },
+    {
+        "id": 17,
+        "type": "factual",
+        "question": "When should one start taking medication for mental health disorders?"
+    },
+    {
+        "id": 18,
+        "type": "factual",
+        "question": "Who should be consulted before taking antibiotics?"
+    },
+    {
+        "id": 19,
+        "type": "factual",
+        "question": "What is the benefit of getting vaccinated?"
+    },
+    {
+        "id": 20,
+        "type": "list",
+        "question": "What are the different types of diabetes?"
+    },
+    {
+        "id": 21,
+        "type": "list",
+        "question": "Which vitamins are essential for a healthy immune system?"
+    },
+    {
+        "id": 22,
+        "type": "list",
+        "question": "What are the common triggers for asthma?"
+    },
+    {
+        "id": 23,
+        "type": "list",
+        "question": "Who are the at-risk groups for lung cancer?"
+    },
+    {
+        "id": 24,
+        "type": "list",
+        "question": "What are the different types of eating disorders?"
+    },
+    {
+        "id": 25,
+        "type": "list",
+        "question": "Which lifestyle changes can help manage high blood pressure?"
+    },
+    {
+        "id": 26,
+        "type": "list",
+        "question": "What are the common types of cancer in men and women?"
+    },
+    {
+        "id": 27,
+        "type": "list",
+        "question": "What are the different types of mental health disorders?"
+    },
+    {
+        "id": 28,
+        "type": "list",
+        "question": "Which antibiotics are commonly prescribed for bacterial infections?"
+    },
+    {
+        "id": 29,
+        "type": "list",
+        "question": "What are the recommended vaccines for adults?"
+    },
+    {
+        "id": 30,
+        "type": "causal",
+        "question": "Why is it important to maintain a healthy weight?"
+    },
+    {
+        "id": 31,
+        "type": "causal",
+        "question": "How does smoking affect lung health?"
+    },
+    {
+        "id": 32,
+        "type": "causal",
+        "question": "Why is regular exercise beneficial for heart health?"
+    },
+    {
+        "id": 33,
+        "type": "causal",
+        "question": "How does a balanced diet contribute to overall health?"
+    },
+    {
+        "id": 34,
+        "type": "causal",
+        "question": "Why is it important to stay hydrated?"
+    },
+    {
+        "id": 35,
+        "type": "causal",
+        "question": "How does stress affect mental health?"
+    },
+    {
+        "id": 36,
+        "type": "causal",
+        "question": "Why is sleep important for health?"
+    },
+    {
+        "id": 37,
+        "type": "causal",
+        "question": "How does excessive alcohol consumption affect the liver?"
+    },
+    {
+        "id": 38,
+        "type": "causal",
+        "question": "Why is it important to have regular medical check-ups?"
+    },
+    {
+        "id": 39,
+        "type": "causal",
+        "question": "How does high blood pressure affect heart health?"
+    },
+    {
+        "id": 40,
+        "type": "hypothetical",
+        "question": "What would happen if a person stops exercising regularly?"
+    },
+    {
+        "id": 41,
+        "type": "hypothetical",
+        "question": "How would a person's health change if they quit smoking?"
+    },
+    {
+        "id": 42,
+        "type": "hypothetical",
+        "question": "What would be the impact on a person's body if they only ate fast food?"
+    },
+    {
+        "id": 43,
+        "type": "hypothetical",
+        "question": "How would a person's mental health be affected if they experienced chronic stress?"
+    },
+    {
+        "id": 44,
+        "type": "hypothetical",
+        "question": "What would happen if a person didn't get enough sleep over a long period of time?"
+    },
+    {
+        "id": 45,
+        "type": "hypothetical",
+        "question": "How would a person's body react if they suddenly stopped taking their prescribed medication?"
+    },
+    {
+        "id": 46,
+        "type": "hypothetical",
+        "question": "What would be the consequences if a person didn't drink enough water daily?"
+    },
+    {
+        "id": 47,
+        "type": "hypothetical",
+        "question": "How would a person's health be affected if they lived in a highly polluted area?"
+    },
+    {
+        "id": 48,
+        "type": "hypothetical",
+        "question": "What would happen if a person didn't follow the recommended vaccination schedule?"
+    },
+    {
+        "id": 49,
+        "type": "hypothetical",
+        "question": "How would a person's body respond if they started a high-intensity workout routine without prior physical training?"
+    },
+    {
+        "id": 50,
+        "type": "complex",
+        "question": "How does the combination of a sedentary lifestyle and a high-sugar diet contribute to the development of type 2 diabetes?"
+    },
+    {
+        "id": 51,
+        "type": "complex",
+        "question": "What are the potential long-term effects on a person's health if they consistently get less sleep than the recommended amount?"
+    },
+    {
+        "id": 52,
+        "type": "complex",
+        "question": "How does chronic stress interact with the immune system to potentially increase a person's susceptibility to illness?"
+    },
+    {
+        "id": 53,
+        "type": "complex",
+        "question": "What is the relationship between high blood pressure and kidney disease?"
+    },
+    {
+        "id": 54,
+        "type": "complex",
+        "question": "How can untreated mental health disorders potentially impact a person's physical health over time?"
+    },
+    {
+        "id": 55,
+        "type": "complex",
+        "question": "What are the potential health risks associated with long-term use of certain types of medication, such as NSAIDs?"
+    },
+    {
+        "id": 56,
+        "type": "complex",
+        "question": "How does the body's immune response to a vaccine differ from its immune response to an actual infection?"
+    },
+    {
+        "id": 57,
+        "type": "complex",
+        "question": "What is the impact of environmental factors, such as air pollution, on respiratory health?"
+    },
+    {
+        "id": 58,
+        "type": "complex",
+        "question": "How does obesity increase the risk of developing other health conditions, such as heart disease and type 2 diabetes?"
+    },
+    {
+        "id": 59,
+        "type": "complex",
+        "question": "What is the relationship between genetic factors and the risk of developing certain types of cancer?"
+    }
+]
