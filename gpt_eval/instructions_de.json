@@ -1,0 +1,602 @@
+[
+    {
+        "id": 0,
+        "theme": "Mut und Freundlichkeit",
+        "character": "Ängstliche Schildkröte",
+        "summary": "Die ängstliche Schildkröte überwindet ihre Ängste, um eine gestrandete Fee zu retten, und lernt dabei, dass Freundlichkeit die wahre Form von Tapferkeit ist."
+    },
+    {
+        "id": 1,
+        "theme": "Vorstellungskraft und Entdeckung",
+        "character": "Neugierige Raupe",
+        "summary": "Die neugierige Raupe stellt sich eine Welt der Riesen vor und entdeckt, dass selbst das kleinste Wesen einen großen Unterschied machen kann."
+    },
+    {
+        "id": 2,
+        "theme": "Teamarbeit und Vielfalt",
+        "character": "Schlauer Chamäleon",
+        "summary": "Das schlaue Chamäleon erkennt die Bedeutung von Teamarbeit, indem es sich mit Tieren aller Farben zusammenschließt, um ihren Wald zu retten."
+    },
+    {
+        "id": 3,
+        "theme": "Durchhaltevermögen und Innovation",
+        "character": "Erfinderische Leguan",
+        "summary": "Der erfinderische Leguan entwickelt außergewöhnliche Geräte, um knifflige Probleme zu lösen, und zeigt, dass Durchhaltevermögen zur Innovation führt."
+    },
+    {
+        "id": 4,
+        "theme": "Freundschaft und Akzeptanz",
+        "character": "Scheuer Hai",
+        "summary": "Der scheue Hai findet wahre Freundschaft im bunten Korallenriff und lehrt andere, dass jeder Akzeptanz verdient."
+    },
+    {
+        "id": 5,
+        "theme": "Familie und Zugehörigkeit",
+        "character": "Einsamer Luchs",
+        "summary": "Der einsame Luchs begibt sich auf eine Suche, um seine Familie zu finden, und entdeckt dabei ein Gefühl der Zugehörigkeit an einem unerwarteten Ort."
+    },
+    {
+        "id": 6,
+        "theme": "Ehrlichkeit und Verantwortung",
+        "character": "Listige Schlange",
+        "summary": "Die listige Schlange erkennt den Wert der Ehrlichkeit, als ihre großen Geschichten zu einem wilden Abenteuer führen."
+    },
+    {
+        "id": 7,
+        "theme": "Freude und Teilen",
+        "character": "Großzügige Giraffe",
+        "summary": "Die großzügige Giraffe verbreitet Freude, indem sie ihre Lieblingssnacks mit den anderen Tieren teilt, und erkennt, dass Glück wächst, wenn man es teilt."
+    },
+    {
+        "id": 8,
+        "theme": "Neugierde und Lernen",
+        "character": "Wissbegierige Raupe",
+        "summary": "Die wissbegierige Raupe stellt endlose Fragen und begibt sich auf eine Reise voller faszinierender Entdeckungen und neuen Wissens."
+    },
+    {
+        "id": 9,
+        "theme": "Kreativität und Ausdruck",
+        "character": "Künstlerische Ameise",
+        "summary": "Die künstlerische Ameise malt sich ihren Weg durch den Dschungel und inspiriert andere Kreaturen, sich kreativ auszudrücken."
+    },
+    {
+        "id": 10,
+        "theme": "Abenteuer und Erkundung",
+        "character": "Wagemutige Entlein",
+        "summary": "Das wagemutige Entlein segelt auf dem Teich und erkundet neue Orte, während es unterwegs Freunde trifft."
+    },
+    {
+        "id": 11,
+        "theme": "Wachstum und Veränderung",
+        "character": "Winzige Kaulquappe",
+        "summary": "Die winzige Kaulquappe erlebt die Wunder des Wachstums und der Verwandlung auf ihrer Reise zum Frosch."
+    },
+    {
+        "id": 12,
+        "theme": "Liebe und Mitgefühl",
+        "character": "Fürsorglicher Koala",
+        "summary": "Der fürsorgliche Koala hilft einem verlorenen Vogel, den Weg nach Hause zu finden, und lernt dabei die Kraft der Liebe und des Mitgefühls kennen."
+    },
+    {
+        "id": 13,
+        "theme": "Respekt und Verständnis",
+        "character": "Weiser Walross",
+        "summary": "Das weise Walross lehrt die Meeresbewohner Respekt und zeigt, dass das Verständnis von Unterschieden den Ozean zu einem besseren Ort macht."
+    },
+    {
+        "id": 14,
+        "theme": "Geduld und Timing",
+        "character": "Hastiger Kolibri",
+        "summary": "Der hastige Kolibri erkennt, dass manche Dinge das Warten wert sind, während er die Schönheit der Geduld entdeckt."
+    },
+    {
+        "id": 15,
+        "theme": "Stärke und Selbstvertrauen",
+        "character": "Winziger Tiger",
+        "summary": "Der winzige Tiger beweist, dass wahre Stärke von innen kommt, wenn er für sich selbst und seine Freunde eintritt."
+    },
+    {
+        "id": 16,
+        "theme": "Träume und Entschlossenheit",
+        "character": "Schläfriger Faultier",
+        "summary": "Das schläfrige Faultier träumt vom Fliegen und findet mit Entschlossenheit einen Weg, um zwischen den Wolken zu schweben."
+    },
+    {
+        "id": 17,
+        "theme": "Harmonie und Natur",
+        "character": "Melodische Elster",
+        "summary": "Die melodische Elster singt Lieder, die alle Kreaturen zusammenbringen und die Harmonie der Natur feiern."
+    },
+    {
+        "id": 18,
+        "theme": "Dankbarkeit und Geben",
+        "character": "Dankbarer Tukan",
+        "summary": "Der dankbare Tukan lernt die Freude des Gebens zurück an den Dschungel, der ihm so viel gegeben hat."
+    },
+    {
+        "id": 19,
+        "theme": "Mysterium und Problemlösung",
+        "character": "Detektivhund",
+        "summary": "Der Detektivhund schnüffelt nach Hinweisen, um das Rätsel der verschwundenen Leckerbissen zu lösen und zeigt, dass jedes Problem eine Lösung hat."
+    },
+    {
+        "id": 20,
+        "theme": "Mysterium und Neugier",
+        "character": "Neugieriges Streifenhörnchen",
+        "summary": "Das neugierige Streifenhörnchen löst das Rätsel der fehlenden Nüsse, indem es einer Spur von Hinweisen durch den Wald folgt."
+    },
+    {
+        "id": 21,
+        "theme": "Erkundung und Neugier",
+        "character": "Abenteuerlustiges Gürteltier",
+        "summary": "Das abenteuerlustige Gürteltier macht sich auf den Weg, um die geheimnisvollen Höhlen in der Nähe seines Zuhauses zu erkunden und entdeckt dabei alte Geheimnisse und neue Freundschaften."
+    },
+    {
+        "id": 22,
+        "theme": "Magie und Mysterium",
+        "character": "Mystische Maus",
+        "summary": "Die mystische Maus entdeckt ein verzaubertes Buch, das sie auf eine magische Reise durch eine Welt voller Wunder führt."
+    },
+    {
+        "id": 23,
+        "theme": "Tapferkeit und Selbstentdeckung",
+        "character": "Mutiger Schmetterling",
+        "summary": "Der mutige Schmetterling stellt sich seinen Ängsten, um die legendäre Sonnenblume der Gelassenheit zu finden, und lernt dabei von seiner inneren Stärke."
+    },
+    {
+        "id": 24,
+        "theme": "Freundschaft und Zusammenarbeit",
+        "character": "Freundlicher Fuchs",
+        "summary": "Der freundliche Fuchs erkennt den Wert der Zusammenarbeit, wenn er sich mit anderen Waldbewohnern zusammenschließt, um sich auf das Winterfest vorzubereiten."
+    },
+    {
+        "id": 25,
+        "theme": "Innovation und Lernen",
+        "character": "Schlaues Eichhörnchen",
+        "summary": "Das schlaue Eichhörnchen erfindet eine Reihe cleverer Geräte, um seinen Freunden zu helfen, effizienter Nahrung zu sammeln, und lehrt sie die Freude am Lernen."
+    },
+    {
+        "id": 26,
+        "theme": "Freundlichkeit und Großzügigkeit",
+        "character": "Sanfte Giraffe",
+        "summary": "Die sanfte Giraffe setzt alles daran, einem verlorenen Vogel zu helfen, und zeigt, dass Freundlichkeit die höchste Form von allem ist."
+    },
+    {
+        "id": 27,
+        "theme": "Abenteuer und Mut",
+        "character": "Furchtloser Frosch",
+        "summary": "Der furchtlose Frosch stürzt sich in ein Abenteuer, um seinen Teich vor Verschmutzung zu retten, und beweist, dass Mut in jeder Größe kommen kann."
+    },
+    {
+        "id": 28,
+        "theme": "Durchhaltevermögen und Geduld",
+        "character": "Beharrlicher Pinguin",
+        "summary": "Der beharrliche Pinguin steht vor vielen Herausforderungen auf seiner Reise zum Großen Gletscher und lernt, dass Geduld und Durchhaltevermögen sich auszahlen."
+    },
+    {
+        "id": 29,
+        "theme": "Freude und Feier",
+        "character": "Fröhliche Qualle",
+        "summary": "Die fröhliche Qualle veranstaltet die beste Unterwasserparty und lehrt alle die Bedeutung von Freude und Feier."
+    },
+    {
+        "id": 30,
+        "theme": "Respekt und Verständnis",
+        "character": "Respektvoller Hase",
+        "summary": "Der respektvolle Hase lernt, die Unterschiede seiner Waldfreunde zu verstehen und zu respektieren und fördert so eine friedliche Gemeinschaft."
+    },
+    {
+        "id": 31,
+        "theme": "Vorstellungskraft und Kreativität",
+        "character": "Kreative Grille",
+        "summary": "Die kreative Grille nutzt ihre Vorstellungskraft, um alltägliche Gegenstände in erstaunliche Abenteuer für all ihre Insektenfreunde zu verwandeln."
+    },
+    {
+        "id": 32,
+        "theme": "Liebe und Familie",
+        "character": "Liebender Lemur",
+        "summary": "Der liebende Lemur begibt sich auf die Suche nach dem perfekten Geschenk für seine Familie und lernt dabei die wahre Bedeutung von Liebe kennen."
+    },
+    {
+        "id": 33,
+        "theme": "Entdeckung und Wachstum",
+        "character": "Entdeckender Dinosaurier",
+        "summary": "Der entdeckende Dinosaurier lernt die Welt um sich herum kennen und wächst mit jeder neuen Entdeckung ein wenig mehr."
+    },
+    {
+        "id": 34,
+        "theme": "Stärke und Entschlossenheit",
+        "character": "Starker Schnecke",
+        "summary": "Die starke Schnecke zeigt, dass Entschlossenheit jedes Hindernis überwinden kann, egal wie langsam der Fortschritt ist."
+    },
+    {
+        "id": 35,
+        "theme": "Harmonie und Frieden",
+        "character": "Friedlicher Panda",
+        "summary": "Der friedliche Panda findet einen Weg, Konflikte im Wald zu lösen und bringt so Harmonie für alle Tiere."
+    },
+    {
+        "id": 36,
+        "theme": "Glück und Teilen",
+        "character": "Glückliches Nilpferd",
+        "summary": "Das glückliche Nilpferd lernt, dass das Teilen seiner Lieblingssachen nicht nur ihm selbst, sondern auch allen um ihn herum Glück bringt."
+    },
+    {
+        "id": 37,
+        "theme": "Teamarbeit und Erfolg",
+        "character": "Teamarbeitsschildkröte",
+        "summary": "Die Teamarbeitsschildkröte und ihre Freunde lernen, dass gemeinsames Arbeiten der Schlüssel zum Erfolg im Großen Gartenrennen ist."
+    },
+    {
+        "id": 38,
+        "theme": "Weisheit und Wissen",
+        "character": "Weiser Specht",
+        "summary": "Der weise Specht teilt sein Wissen mit den jüngeren Vögeln und lehrt sie die Weisheit des Waldes."
+    },
+    {
+        "id": 39,
+        "theme": "Dankbarkeit und Wertschätzung",
+        "character": "Dankbarer Goldfisch",
+        "summary": "Der dankbare Goldfisch entdeckt die Schönheit der Dankbarkeit, wenn er die kleinen Dinge in seiner Schüssel zu schätzen lernt."
+    },
+    {
+        "id": 40,
+        "theme": "Herausforderung und Triumph",
+        "character": "Triumphant Turtle",
+        "summary": "Die triumphierende Schildkröte steht vor einer großen Herausforderung, lernt aber, dass mit ein wenig Hilfe von ihren Freunden jeder Triumph möglich ist."
+    },
+    {
+        "id": 41,
+        "theme": "Abenteuer und Freundschaft",
+        "character": "Tapferer Wühlmaus",
+        "summary": "Die tapfere Wühlmaus begibt sich auf ein großes Abenteuer, um den sagenumwobenen Sternenfrucht zu finden, und schließt dabei lebenslange Freundschaften."
+    },
+    {
+        "id": 42,
+        "theme": "Magie und Staunen",
+        "character": "Verzauberter Elefant",
+        "summary": "Der verzauberte Elefant entdeckt einen verborgenen Garten, in dem die Pflanzen bei Vollmond einen Tanz aus Farben und Lichtern aufführen."
+    },
+    {
+        "id": 43,
+        "theme": "Mut und Veränderung",
+        "character": "Tapferer Fledermaus",
+        "summary": "Die tapfere Fledermaus konfrontiert ihre Angst vor dem Tageslicht und entdeckt eine Welt der Schönheit, die sie nie kannte."
+    },
+    {
+        "id": 44,
+        "theme": "Entdeckung und Wachstum",
+        "character": "Kleiner Lernender Eidechse",
+        "summary": "Die kleine lernende Eidechse findet eine geheimnisvolle Karte, die sie zu einer Bibliothek führt, in der Bücher zum Leben erweckt werden."
+    },
+    {
+        "id": 45,
+        "theme": "Freude und Gelächter",
+        "character": "Fröhlicher Schakal",
+        "summary": "Der fröhliche Schakal stößt auf einen lachenden Bach, der alle mit unkontrollierbarem Kichern erfüllt."
+    },
+    {
+        "id": 46,
+        "theme": "Freundlichkeit und Mitgefühl",
+        "character": "Fürsorgliche Raupe",
+        "summary": "Die fürsorgliche Raupe macht sich auf den Weg, einem Freund in Not zu helfen, und lernt, dass eine kleine Geste der Freundlichkeit viel bewirken kann."
+    },
+    {
+        "id": 47,
+        "theme": "Durchhaltevermögen und Hoffnung",
+        "character": "Hoffnungsvoller Igel",
+        "summary": "Der hoffnungsvolle Igel gibt niemals auf, ein Heilmittel für die welken Wunschblumen seiner Wiese zu finden."
+    },
+    {
+        "id": 48,
+        "theme": "Freundschaft und Vielfalt",
+        "character": "Freundlicher Flamingo",
+        "summary": "Der freundliche Flamingo erkennt, dass je vielfältiger die Freunde sind, desto bunter werden die Abenteuer."
+    },
+    {
+        "id": 49,
+        "theme": "Vorstellungskraft und Möglichkeit",
+        "character": "Träumerischer Delfin",
+        "summary": "Der träumerische Delfin schwimmt durch den Ozean der Träume, wo jede Welle eine neue Möglichkeit birgt."
+    },
+    {
+        "id": 50,
+        "theme": "Liebe und Familie",
+        "character": "Treuer Lemming",
+        "summary": "Der treue Lemming begibt sich auf eine Reise, um die legendäre Beere der Brüderlichkeit zu finden und seine Familie vor einem harten Winter zu retten."
+    },
+    {
+        "id": 51,
+        "theme": "Harmonie und Frieden",
+        "character": "Friedensstiftender Wellensittich",
+        "summary": "Der friedensstiftende Wellensittich vermittelt einen Waffenstillstand zwischen den Vögeln und den Bienen und sorgt für Harmonie im Garten."
+    },
+    {
+        "id": 52,
+        "theme": "Abenteuer und Tapferkeit",
+        "character": "Wagemutiger Hirsch",
+        "summary": "Der wagemutige Hirsch begibt sich ins Herz des Verzauberten Waldes, um die verlorene Melodie der alten Bäume zu finden."
+    },
+    {
+        "id": 53,
+        "theme": "Magie und Freundschaft",
+        "character": "Magische Mango",
+        "summary": "Die magische Mango freundet sich mit einem einsamen Zauberer an und gemeinsam zaubern sie Freude im gesamten Dschungel herbei."
+    },
+    {
+        "id": 54,
+        "theme": "Neugierde und Entdeckung",
+        "character": "Neugierige Krähe",
+        "summary": "Die neugierige Krähe entdeckt ein verborgenes Reich durch eine geheime Tür in der alten Eiche und gelangt in eine Welt voller Wunder."
+    },
+    {
+        "id": 55,
+        "theme": "Freundlichkeit und Großzügigkeit",
+        "character": "Sanfter Ziegenbock",
+        "summary": "Der sanfte Ziegenbock teilt seine Weide mit bedürftigen Kreaturen und lehrt sie den Wert von Freundlichkeit und Gemeinschaft."
+    },
+    {
+        "id": 56,
+        "theme": "Beharrlichkeit und Triumph",
+        "character": "Beharrlicher Papagei",
+        "summary": "Der beharrliche Papagei überwindet eine Reihe von Herausforderungen, um den legendären Goldenen Samen zu finden, der seinen Wald rettet."
+    },
+    {
+        "id": 57,
+        "theme": "Freude und Teilen",
+        "character": "Freudiger Jaguar",
+        "summary": "Der freudige Jaguar entdeckt die Höhle des Echos, in der Gelächter sich multipliziert und Glück im ganzen Land verbreitet."
+    },
+    {
+        "id": 58,
+        "theme": "Mut und Selbstentdeckung",
+        "character": "Mutige Katze",
+        "summary": "Die mutige Katze begibt sich auf eine Reise, um den Spiegel der Wahrheit zu finden, und lernt dabei ihre wahre Natur kennen."
+    },
+    {
+        "id": 59,
+        "theme": "Freundschaft und Akzeptanz",
+        "character": "Freundlicher Fink",
+        "summary": "Der freundliche Fink erkennt, dass wahre Freundschaft bedeutet, andere so zu akzeptieren, wie sie sind - mit all ihren Federn."
+    },
+    {
+        "id": 60,
+        "theme": "Vorstellungskraft und Möglichkeiten",
+        "character": "Fantasievoller Ibis",
+        "summary": "Der fantasievolle Ibis malt Bilder am Himmel und zeigt, dass mit Vorstellungskraft alles möglich ist."
+    },
+    {
+        "id": 61,
+        "theme": "Liebe und Familie",
+        "character": "Liebender Lama",
+        "summary": "Das liebende Lama begibt sich auf eine Suche, um die Gemütliche Decke des Trostes zu finden und ihre Familie während der kalten Bergnächte warm zu halten."
+    },
+    {
+        "id": 62,
+        "theme": "Geheimnis und Abenteuer",
+        "character": "Geheimnisvoller Erdmännchen",
+        "summary": "Das geheimnisvolle Erdmännchen löst das Rätsel der Flüsternden Winde und führt zu einem unerwarteten Schatz."
+    },
+    {
+        "id": 63,
+        "theme": "Teamarbeit und Erfolg",
+        "character": "Teamarbeit Tiger",
+        "summary": "Der Teamarbeit Tiger mobilisiert die Dschungeltiere, um ihre Häuser nach einem Sturm wieder aufzubauen und beweist, dass sie gemeinsam alles erreichen können."
+    },
+    {
+        "id": 64,
+        "theme": "Weisheit und Wissen",
+        "character": "Weiser Wombat",
+        "summary": "Der weise Wombat teilt unter den Sternen uralte Geschichten und gibt Weisheit und Wissen an die nächste Generation weiter."
+    },
+    {
+        "id": 65,
+        "theme": "Dankbarkeit und Wertschätzung",
+        "character": "Dankbare Gans",
+        "summary": "Die dankbare Gans lernt auf ihrer Reise gen Süden im Winter die einfachen Freuden des Lebens zu schätzen."
+    },
+    {
+        "id": 66,
+        "theme": "Herausforderung und Innovation",
+        "character": "Cleverer Kojote",
+        "summary": "Der clevere Kojote erfindet geniale Lösungen, um seinen Freunden in der Wüste bei der Überwindung von Hindernissen zu helfen."
+    },
+    {
+        "id": 67,
+        "theme": "Harmonie und Frieden",
+        "character": "Harmonischer Habicht",
+        "summary": "Der harmonische Habicht fliegt hoch über den Wolken, um das Geheimnis des ewigen Friedens für alle Kreaturen zu finden."
+    },
+    {
+        "id": 68,
+        "theme": "Glück und Gelächter",
+        "character": "Fröhlicher Igel",
+        "summary": "Der fröhliche Igel entdeckt das Tal des Kicherns, wo jede Kreatur das Geschenk des Lachens teilt."
+    },
+    {
+        "id": 69,
+        "theme": "Respekt und Verständnis",
+        "character": "Respektvoller Waschbär",
+        "summary": "Der respektvolle Waschbär lernt die Sprache der Bäume und gewinnt ein tieferes Verständnis und Respekt für den Wald."
+    },
+    {
+        "id": 70,
+        "theme": "Abenteuer und Erkundung",
+        "character": "Entdecker-Elefant",
+        "summary": "Der Entdecker-Elefant sticht in See auf dem Saphirmeer, kartiert neue Inseln und freundet sich mit Meereskreaturen an."
+    },
+    {
+        "id": 71,
+        "theme": "Magie und Geheimnis",
+        "character": "Mystischer Affe",
+        "summary": "Der mystische Affe entdeckt einen alten Amulett, das die Geheimnisse der Verlorenen Stadt der Bananen enthüllt."
+    },
+    {
+        "id": 72,
+        "theme": "Mut und Veränderung",
+        "character": "Mutiger Kanarienvogel",
+        "summary": "Der mutige Kanarienvogel singt ein Lied, das die Jahreszeiten verändert und nach einem langen Winter den Frühling ins Land bringt."
+    },
+    {
+        "id": 73,
+        "theme": "Entdeckung und Wachstum",
+        "character": "Entdeckende Ente",
+        "summary": "Die entdeckende Ente findet einen magischen Teich, bei dem jeder Schwimmzug zu einer neuen Welt und einer neuen Lektion führt."
+    },
+    {
+        "id": 74,
+        "theme": "Freundlichkeit und Großzügigkeit",
+        "character": "Freundliches Känguru",
+        "summary": "Das freundliche Känguru öffnet seinen Beutel, um verlorene Jungtiere zu helfen, und lehrt sie die Kraft der Freundlichkeit."
+    },
+    {
+        "id": 75,
+        "theme": "Beharrlichkeit und Hoffnung",
+        "character": "Hoffnungsvoller Flusspferd",
+        "summary": "Das hoffnungsvolle Flusspferd reist über die Savanne, um das Wasser des Lebens zu finden und Hoffnung in sein von Dürre geplagtes Zuhause zurückzubringen."
+    },
+    {
+        "id": 76,
+        "theme": "Freude und Feier",
+        "character": "Jubelnder Jaguar",
+        "summary": "Der jubelnde Jaguar organisiert das Große Dschungelfest, bei dem jedes Tier seine einzigartigen Talente feiert."
+    },
+    {
+        "id": 77,
+        "theme": "Mut und Selbstentdeckung",
+        "character": "Neugieriger Wels",
+        "summary": "Der neugierige Wels taucht tief in die Abgründe des Ozeans ein und findet Mut sowie uralte Geheimnisse."
+    },
+    {
+        "id": 78,
+        "theme": "Freundschaft und Akzeptanz",
+        "character": "Liebenswürdiger Alligator",
+        "summary": "Der liebenswürdige Alligator erkennt, dass wahre Freunde dich so akzeptieren, wie du bist - mit all deinen Schuppen."
+    },
+    {
+        "id": 79,
+        "theme": "Vorstellungskraft und Möglichkeiten",
+        "character": "Erfinderische Leguan",
+        "summary": "Der erfinderische Leguan träumt von einer Welt, in der Eidechsen fliegen können, und setzt alles daran, es zur Realität zu machen."
+    },
+    {
+        "id": 80,
+        "theme": "Liebe und Familie",
+        "character": "Treuer Löwe",
+        "summary": "Der treue Löwe begibt sich auf eine wagemutige Suche, um die heilenden Kräuter zu finden, die sein Rudel retten werden."
+    },
+    {
+        "id": 81,
+        "theme": "Geheimnis und Abenteuer",
+        "character": "Mystisches Erdmännchen",
+        "summary": "Das mystische Erdmännchen enthüllt das Geheimnis der Stillen Sande und erlebt ein Abenteuer, das seine kühnsten Träume übersteigt."
+    },
+    {
+        "id": 82,
+        "theme": "Teamarbeit und Erfolg",
+        "character": "Geselliges Eichhörnchen",
+        "summary": "Das gesellige Eichhörnchen vereint die Waldbewohner, um das spektakulärste Baumhaus aller Zeiten zu erschaffen."
+    },
+    {
+        "id": 83,
+        "theme": "Weisheit und Wissen",
+        "character": "Weiser Wal",
+        "summary": "Der weise Wal reist durch die Ozeane und sammelt Geschichten aus der Tiefe, um sie mit allen Meeresbewohnern zu teilen."
+    },
+    {
+        "id": 84,
+        "theme": "Dankbarkeit und Wertschätzung",
+        "character": "Dankbare Schildkröte",
+        "summary": "Die dankbare Schildkröte begibt sich auf eine Reise, um sich bei jedem Tier zu bedanken, das ihr im Laufe ihres Lebens geholfen hat."
+    },
+    {
+        "id": 85,
+        "theme": "Herausforderung und Innovation",
+        "character": "Innovatives Insekt",
+        "summary": "Das innovative Insekt erschafft eine Symphonie aus Klängen mit natürlichen Elementen und bringt den Wald auf eine neue Art zum Leben."
+    },
+    {
+        "id": 86,
+        "theme": "Innovation und Neugier",
+        "character": "Wissbegierige Leguan",
+        "summary": "Der wissbegierige Leguan erfindet ein Gerät, das das Wetter verändern kann, und erlebt unerwartete Abenteuer in seiner tropischen Heimat."
+    },
+    {
+        "id": 87,
+        "theme": "Freundschaft und Verständnis",
+        "character": "Freundlicher Falke",
+        "summary": "Der freundliche Falke lernt die Sprache der Waldbewohner und erkennt, dass wahres Verständnis Zuhören mit dem Herzen erfordert."
+    },
+    {
+        "id": 88,
+        "theme": "Mut und Entschlossenheit",
+        "character": "Entschlossener Esel",
+        "summary": "Der entschlossene Esel setzt sich das Ziel zu beweisen, dass er genauso tapfer sein kann wie das edelste Pferd und Herausforderungen mit unbeirrtem Willen meistert."
+    },
+    {
+        "id": 89,
+        "theme": "Freude und Kreativität",
+        "character": "Freudiger Hase",
+        "summary": "Der freudige Hase nutzt seine unbändige Energie, um Kunst zu schaffen, die das gesamte Wiesental glücklich macht."
+    },
+    {
+        "id": 90,
+        "theme": "Freundlichkeit und Mitgefühl",
+        "character": "Mitfühlender Kanarienvogel",
+        "summary": "Der mitfühlende Kanarienvogel singt beruhigende Melodien, um die anderen Vögel während eines Sturms zu trösten und Ruhe und Freundlichkeit zu verbreiten."
+    },
+    {
+        "id": 91,
+        "theme": "Abenteuer und Entdeckung",
+        "character": "Abenteuerlustiger Ameisenbär",
+        "summary": "Der abenteuerlustige Ameisenbär entdeckt eine verborgene unterirdische Stadt, die von Ameisen erbaut wurde, und lernt dabei ihre komplexe Gesellschaft kennen."
+    },
+    {
+        "id": 92,
+        "theme": "Magie und Vorstellungskraft",
+        "character": "Magischer Erdmännchen",
+        "summary": "Das magische Erdmännchen findet eine Brille, die es ihm ermöglicht, die Welt in einem Kaleidoskop von Farben zu sehen, und entfacht seine Vorstellungskraft."
+    },
+    {
+        "id": 93,
+        "theme": "Durchhaltevermögen und Wachstum",
+        "character": "Beharrlicher Panda",
+        "summary": "Der beharrliche Panda erklimmt das höchste Bambus, um die Himmel zu erreichen, und lernt dabei wertvolle Lektionen auf jedem Schritt."
+    },
+    {
+        "id": 94,
+        "theme": "Liebe und Opferbereitschaft",
+        "character": "Liebender Hummer",
+        "summary": "Der liebende Hummer durchquert den Meeresboden, um ein Heilmittel für seinen Freund, das kranke Korallenriff, zu finden."
+    },
+    {
+        "id": 95,
+        "theme": "Geheimnis und Neugier",
+        "character": "Geheimnisvolle Motte",
+        "summary": "Die geheimnisvolle Motte folgt einem Pfad aus Mondlicht, um die Geheimnisse der Nacht zu enthüllen."
+    },
+    {
+        "id": 96,
+        "theme": "Teamarbeit und Freundschaft",
+        "character": "Teamarbeitsschildkröte",
+        "summary": "Die Teamarbeitsschildkröte und ihre Freunde gründen eine Band und lernen, dass Harmonie nicht nur in der Musik, sondern auch in der Freundschaft existiert."
+    },
+    {
+        "id": 97,
+        "theme": "Weisheit und Geduld",
+        "character": "Weiser Specht",
+        "summary": "Der weise Specht lehrt die jungen Vögel den Rhythmus der Bäume und zeigt, dass Geduld zur Weisheit führen kann."
+    },
+    {
+        "id": 98,
+        "theme": "Dankbarkeit und Freude",
+        "character": "Dankbarer Goldfisch",
+        "summary": "Der dankbare Goldfisch entdeckt die Freude der Dankbarkeit, als er eine Kette von Gefälligkeiten im Teich beginnt."
+    },
+    {
+        "id": 99,
+        "theme": "Herausforderung und Widerstandsfähigkeit",
+        "character": "Widerstandsfähige Ratte",
+        "summary": "Die widerstandsfähige Ratte steht vor einem anspruchsvollen Labyrinth, aber mit Entschlossenheit findet sie ihren Weg zum Triumphkäse."
+    }
+]
