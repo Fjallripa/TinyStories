@@ -164,3 +164,4 @@ cython_debug/
 
 # private tokens
 .env
+old_dotenv
